@@ -30,5 +30,6 @@ setInterval(function () {
 }, 5000);
 
 注：版本不同可能使用方式不同，当前使用的版本是7.1.4
+
 官方文档4.0.1地址：https://github.com/node-serialport/node-serialport/blob/4.0.1/README.md
 
